@@ -1,0 +1,2 @@
+2024-12-20 20:13:18.721228 - IP: 127.0.0.1 - Ubicación: Desconocida, Desconocida, Desconocido (Desconocida) - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+2024-12-20 20:13:19.477112 - IP: 127.0.0.1 - Ubicación: Desconocida, Desconocida, Desconocido (Desconocida) - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
